@@ -1,0 +1,29 @@
+2023-10-02 20:12:03 INFO ====== WebDriver manager ======
+2023-10-02 20:12:05 INFO Get LATEST chromedriver version for google-chrome
+2023-10-02 20:12:05 INFO Get LATEST chromedriver version for google-chrome
+2023-10-02 20:12:06 INFO Driver [C:\Users\Olga\.wdm\drivers\chromedriver\win64\117.0.5938.92\chromedriver-win32/chromedriver.exe] found in cache
+2023-10-02 20:12:07 INFO Test 1 started
+2023-10-02 20:12:08 INFO Send test to element//*[@id="login"]/div[1]/label/input
+2023-10-02 20:12:08 INFO Send test to element//*[@id="login"]/div[2]/label/input
+2023-10-02 20:12:08 INFO Click login button
+2023-10-02 20:12:09 INFO We find text 401 in error field //*[@id="app"]/main/div/div/div[2]/h2
+2023-10-02 20:12:09 INFO Test2 Starting
+2023-10-02 20:12:09 INFO Send olgakhleb to element//*[@id="login"]/div[1]/label/input
+2023-10-02 20:12:09 INFO Send 8e92fe3265 to element//*[@id="login"]/div[2]/label/input
+2023-10-02 20:12:09 INFO Click login button
+2023-10-02 20:12:11 INFO Нашли текст *Blog* локатор Блог
+2023-10-02 20:12:11 INFO Нашли текст *Blog* локатор Блог
+2023-10-02 20:12:11 INFO Test 3 Starting
+2023-10-02 20:12:11 INFO Click create post button
+2023-10-02 20:12:11 INFO Send Post to element//*[@id ="create-item"]/div/div/div[1]/div/label/input
+2023-10-02 20:12:11 INFO Click save post button
+2023-10-02 20:12:13 INFO Нашли текст *Post* локатор Пост
+2023-10-02 20:12:13 INFO Нашли текст *Post* локатор Пост
+2023-10-02 20:12:13 INFO Test 4 Starting
+2023-10-02 20:12:13 INFO Click Contact
+2023-10-02 20:12:13 INFO Send olga_hom to element//*[@id="contact"]/div[1]/label/input
+2023-10-02 20:12:13 INFO Send olga_hom@mail.ru to element//*[@id="contact"]/div[2]/label/input
+2023-10-02 20:12:13 INFO Send Hello to element//*[@id="contact"]/div[3]/label/span/textarea
+2023-10-02 20:12:16 INFO Click button Contact Us
+2023-10-02 20:12:18 INFO Get alert message
+2023-10-02 20:12:18 INFO Get alert message
