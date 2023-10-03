@@ -1,0 +1,21 @@
+address: https://test-stand.gb.ru
+browser: chrome
+sleep_time: 1
+login: olgakhleb
+password: 8e92fe3265
+title: New post
+description: Post about the autotest task
+content: Add another test to the REST API task, in which a new post is created, and then its presence on the server is checked by the “description" field
+
+
+u_name: olga_hom
+content_contact: Hello
+u_email: olga_hom@mail.ru
+
+fromaddr_report: olga_hom@mail.ru
+toaddr_report: olga_hom@mail.ru
+mail_password:
+
+
+url_login: "https://test-stand.gb.ru/gateway/login"
+url_posts: "https://test-stand.gb.ru/api/posts"
